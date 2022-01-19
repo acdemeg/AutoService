@@ -1,0 +1,7 @@
+*.exe
+**/AutoService.csproj
+**/*.csproj.user
+*.sln
+.vs
+**/bin/
+**/obj/
